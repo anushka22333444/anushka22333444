@@ -6,8 +6,7 @@
 </p>
 
 
-<img src="![coder](https://github.com/user-attachments/assets/7a094706-fc40-4c11-bad2-e74c991547e8)
-" width="60%" height="60%" />
+
 
 ### 📄 Resume
 
