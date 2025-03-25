@@ -20,7 +20,7 @@
 - 🔹 **Frontend Developer Intern at Startup Matric** (Jan 2025 - Present)
 - 🔹 Skilled in **React.js, Node.js, Java, C++, JavaScript, MySQL**
 - 🔹 Experienced in **Full-Stack Development, AI/ML, and Research**
-- 🔹 Built **Lung Cancer Prediction Model, HealthNest Healthcare Platform**
+- 🔹 Built **Lung Cancer Prediction Website, HealthNest Healthcare Platform**
 - 🔹 Participated in various hackathons and contributed as a technical team member in ecell
 
 💡 Passionate about problem-solving, coding, and building impactful applications.
