@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Anushka Singh</h1>
 <p align="center">
-<img src="https://img.freepik.com/free-vector/girl-using-laptop-cartoon_1308-118583.jpg"
+<img src="https://img.freepik.com/free-vector/girl-using-laptop-cartoon_1308-118583.jpg" height = "300"
 />
 <p align="center">
   🚀 Full-Stack Developer | 🤖 AI/ML Researcher | 💻 Java Enthusiast | 🔥 Open Source Contributor
