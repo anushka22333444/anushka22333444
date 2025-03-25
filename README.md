@@ -51,7 +51,7 @@
 
 ### 📚 Recent Projects
 
-1️⃣ **Lung Cancer Prediction Model** *(AI/ML, Flask, JavaScript)*
+1️⃣ **Lung Cancer Prediction Website** *(AI/ML, Flask, Javascript)*
 🔹 Engineered a neural network-based model for risk level predictions, integrating **3D visualization**.
 
 2️⃣ **HealthNest - Healthcare Platform** *(Full Stack Web Development)*
