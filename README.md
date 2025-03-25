@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Anushka Singh</h1>
 <p align="center">
-<img src="![image](https://github.com/user-attachments/assets/7e8ff1f2-d4b2-46e5-8738-e69a65aa6052)
-?w=360" width="300"/>
+<img src="![freepik](https://github.com/user-attachments/assets/01792291-01ce-48e7-9a7a-2ab57fe2632d)
+w=360" width="300"/>
 <p align="center">
   🚀 Full-Stack Developer | 🤖 AI/ML Researcher | 💻 Java Enthusiast | 🔥 Open Source Contributor
 </p>
