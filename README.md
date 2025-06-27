@@ -33,29 +33,31 @@
 
 ### 🛠️ Tech Stack
 
-#### **🧰 My Toolbox**
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 15px; margin: 20px 0;">
-
-[![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge)](https://java.com "Java")
-[![C++](https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=cplusplus&logoColor=white&style=for-the-badge)](https://isocpp.org/ "C++")
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge)](https://javascript.com "JavaScript")
-[![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org "React")
-[![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white&style=for-the-badge)](https://nodejs.org "Node.js")
-[![Flask](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/ "Flask")
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=for-the-badge)](https://mongodb.com "MongoDB")
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge)](https://mysql.com "MySQL")
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com "Firebase")
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com "GitHub")
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com "VS Code")
-[![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4.svg?logo=googlemaps&logoColor=white&style=for-the-badge)](https://maps.google.com "Google Maps")
-
+#### **🧰 Languages & Frameworks**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&style=flat-square"/>
 </div>
 
-#### **📊 Skill Levels**
-```text
-Java        ██████████░░ 90%   React       ████████░░░░ 80%
-C++         █████████░░░ 85%   Node.js     ███████░░░░░ 70%
-JavaScript  █████████░░░ 85%   Flask       ██████░░░░░░ 60%
+#### **🗃️ Databases & Cloud**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&style=flat-square"/>
+</div>
+
+#### **🔧 Tools & Platforms**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&style=flat-square"/>
+</div>
+
+---
 
 ### 🚀 Featured Projects
 
