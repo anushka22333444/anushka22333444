@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hello World! I'm Anushka Singh ✨</h1>
+<h1 align="center">✨ Hello ! I'm Anushka Singh ✨</h1>
 
 <p align="center">
   <img src="https://img.freepik.com/free-vector/girl-using-laptop-cartoon_1308-118583.jpg" height="300" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,150,136,0.3);"/>
