@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="[https://drive.google.com/file/d/1W-cfNBOOLtOufg65FIJwCiRjQ33QYchN/view?usp=sharing](https://drive.google.com/file/d/10ce2oJcAN509HXpAezqgvrnzYd7aGN3U/view?usp=sharing)">
+  <a href="https://drive.google.com/file/d/1W-cfNBOOLtOufg65FIJwCiRjQ33QYchN/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄_Resume-Download-00796B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=004D40" alt="Resume"/>
   </a>
 </div>
